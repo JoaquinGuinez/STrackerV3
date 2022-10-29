@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975843473532",
+    "project_id": "strackerdatabase",
+    "storage_bucket": "strackerdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975843473532:android:d3b9eed679529f9fbeb1f9",
+        "android_client_info": {
+          "package_name": "cl.santotomas.stracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975843473532-fh9h9braiqaah3b9fuoln6b7guulu2cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjrbN0kmAFyFbiuyjP5jXsUKNSNeZ5gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975843473532-fh9h9braiqaah3b9fuoln6b7guulu2cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
