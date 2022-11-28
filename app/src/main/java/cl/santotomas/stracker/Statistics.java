@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class Estadisticas extends AppCompatActivity {
+public class Statistics extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
